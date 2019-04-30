@@ -16,4 +16,4 @@
 5、执行后请查看日志（/opt/wlspatchxxxxxxxx_log.txt），来验证检查、移除、安装过程是否成功；
 
 6、如果需要脚本在后台执行
-   请按照格式 nohup python install_wls_Patch4.0.py [auto|hand] [mode] [...] > nohup.out|tail -f nohup.out &；
+   请按照格式 nohup python -u install_wls_Patch4.0.py [auto|hand] [mode] [...] > nohup.out 2>&1|tail -f nohup.out &；
