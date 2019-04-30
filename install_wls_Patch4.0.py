@@ -301,7 +301,3 @@ if __name__ == '__main__':
 
 
 
-#GFWX
-#p27395085_1036_Generic.zip
-#python mywlsPatch.py --update GFWX p27395085_1036_Generic.zip
-
