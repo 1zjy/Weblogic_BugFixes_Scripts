@@ -24,7 +24,7 @@
 
 6、如果需要脚本在后台执行
 
-   请按照格式 nohup python -u install_wls_Patch5.0.py [auto|hand] [mode] [...] > nohup.out 2>&1|tail -f nohup.out &
+   请按照格式 nohup python -u install_wls_Patch6.0.py [auto|hand] [mode] [...] > nohup.out 2>&1|tail -f nohup.out &
    
 7、安装最新Patch大版本和Patch小版本模式选择（在选择模式之前请查看weblogic官网属于什么版本或者测试安装根据提示操作）
 
